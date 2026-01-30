@@ -24,18 +24,12 @@ I am a tech enthusiast born in **2006**, currently pursuing my degree in **Compu
 * **Goals:** Currently focused on mastering my university projects and building a solid portfolio in software development.
 * **Fun Fact:** I belong to the 2006 generation, growing up right alongside the evolution of modern web and gaming tech.
 
----
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexdia19&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexdia19&layout=compact&theme=dracula)
 
 ---
 
 ## 📫 Let's Connect!
 
-* **Instagram:** [instagram/in/your-profile](https://instagram.com/alexnavarro.19)
+* **Instagram:** [alexnavarro.19](https://instagram.com/alexnavarro.19)
 * **Email:** [alex.n.p1922@gmail.com]
 
 
