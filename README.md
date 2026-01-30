@@ -1,16 +1,42 @@
-<h1 align="center">Hi 👋, I'm Alex Navarro</h1>
-<h3 align="center">I'm studying computer engineering in the UA</h3>
+# Hi there! I'm [Alex Navarro] 👋
 
-- 🌱 I’m currently learning **C#,C++,PYTHON,Java...**
+### 🚀 Computer Engineering Student @ UA | Aspiring Software Developer
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/alexnavarro.19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexnavarro.19" height="30" width="40" /></a>
-<a href="https://discord.gg/alexdia19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alexdia19" height="30" width="40" /></a>
-</p>
+I am a tech enthusiast born in **2006**, currently pursuing my degree in **Computer Engineering** at the **University of Alicante (UA)**. I love building efficient code and exploring how software can solve real-world problems.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages I Know
+* **C / C++:** My foundation for understanding low-level programming and memory management.
+* **Java:** My go-to for Object-Oriented Programming (OOP) and structured applications.
+
+### 📚 Currently Learning
+* **Python:** Exploring its versatility for scripting and data.
+* **C#:** Diving into application development and game logic.
+
+---
+
+## 🎮 Beyond the Code
+
+* **Gaming:** I'm a huge fan of video games! I don't just play them; I’m fascinated by the mechanics and the engines that power them.
+* **Goals:** Currently focused on mastering my university projects and building a solid portfolio in software development.
+* **Fun Fact:** I belong to the 2006 generation, growing up right alongside the evolution of modern web and gaming tech.
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexdia19&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexdia19&layout=compact&theme=dracula)
+
+---
+
+## 📫 Let's Connect!
+
+* **Instagram:** [instagram/in/your-profile](https://instagram.com/alexnavarro.19)
+* **Email:** [alex.n.p1922@gmail.com]
 
 
 <!--
